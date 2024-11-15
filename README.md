@@ -7,3 +7,7 @@ The Data Atlas is a tabular visualisation mapping out the Sloane Collections acr
 ## How to Read the Atlas
 
 Every continent is comprised in sections, e.g. the sections of the Natural History Museum are "Sloane Manuscript Catalogues", "Collection Guides" and "Objects". Each section visualises in separate columns and with colour-coding the level of digitisation, ranging from offline resource "Tangible artefact", on the first, far-left column through to "Imaged  and Machine Readable" on the third, far-right column.
+
+## Vector (PDF) version
+
+For a PDF version of the Data Atlas, please visit: [sloanelab.org/data-atlas/](https://sloanelab.org/data-atlas/)
